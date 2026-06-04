@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-playwright-tests",
+  "version": "1.0.0",
+  "description": "Playwright automation for Angular Todo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report",
+    "test:explore": "node tests/exploratory/explore-bugs.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
