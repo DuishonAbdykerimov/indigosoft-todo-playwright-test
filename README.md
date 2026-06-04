@@ -4,7 +4,8 @@
 
 Автоматизированное тестирование Angular Todo List приложения с использованием Playwright (JavaScript).
 
-Приложение под тестами: [angular-todo-app](../angular-todo-app) (API: JSONPlaceholder).
+**Тестируемое приложение:** Angular Todo List (отдельный проект, не входит в этот репозиторий).  
+Его нужно запустить локально на `http://localhost:4200` (папка `angular-todo-app` рядом с проектом тестов). API: JSONPlaceholder.
 
 ## Стек технологий
 
